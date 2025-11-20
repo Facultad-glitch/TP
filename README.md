@@ -5,7 +5,7 @@ El dominio es un **Sistema de Gestión de Biblioteca**. La estructura de datos e
 ### Relación Clave 1:1:
 
 
-## 2. ⚙️ Requisitos y Creación de la Base de Datos
+## 2.  Requisitos Tecnicos
 
 ### Requisitos Técnicos
 

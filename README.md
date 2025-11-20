@@ -39,11 +39,7 @@ Selecciona la base de datos 'biblioteca'.
 Copia y pega el contenido completo del script SQL (el código que comienza con 'USE biblioteca;') y ejecútalo.
 
 4. Por ultimo descarga el archivo la carpeta TFI_Prog2 de este repositorio y corre con algun IDE 
-de preferencia Netbeans y descarga el archivo  mysql.connector-java version 8.0.30 que permite la conexion de la
-base de datos si no la tienes.
-Link Mysql: https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.30
-
-
+de preferencia Netbeans y para la conexion se uso la libreria mysql.connector-java.
 
 --------------------------------------------------------------------------------------------------------------------
 LINK DEL VIDEO

@@ -1,8 +1,8 @@
-## 1.  Descripción del Dominio Elegido
+##   Descripción del Dominio Elegido
 
 El dominio es un **Sistema de Gestión de Biblioteca**. La estructura de datos está diseñada para separar la información descriptiva del título de los datos del ejemplar físico, logrando una alta eficiencia en la catalogación.
 
-## 2.  Requisitos Tecnicos
+##   Requisitos Tecnicos
 
 ### Requisitos Técnicos
 
@@ -15,7 +15,7 @@ El dominio es un **Sistema de Gestión de Biblioteca**. La estructura de datos e
 
 ------------------------------------------------------------------------------------------------------------------------
 
-Script de Creación de Base de Datos 'biblioteca' en MySQL
+## Script de Creación de Base de Datos 'biblioteca' en MySQL
 
 Este repositorio contiene un script SQL llamado base de datos biblioteca diseñado para crear y poblar la base de datos 'biblioteca' 
 con un esquema que implementa una relación uno a uno (1:1) entre las tablas de libros y fichas bibliográficas. 
@@ -38,7 +38,9 @@ Selecciona la base de datos 'biblioteca'.
 
 Copia y pega el contenido completo del script SQL (el código que comienza con 'USE biblioteca;') y ejecútalo.
 
-4. Por ultimo descarga el archivo la carpeta TFI_Prog2 de este repositorio y corre con algun IDE 
+## Descarga del proyecto
+
+Por ultimo descarga el archivo la carpeta TFI_Prog2 de este repositorio y corre con algun IDE 
 de preferencia Netbeans y para la conexion se uso la libreria mysql.connector-java.
 
 --------------------------------------------------------------------------------------------------------------------
